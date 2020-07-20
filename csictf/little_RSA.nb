@@ -1,0 +1,66 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='WolframDesktop 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       161,          7]
+NotebookDataLength[      1756,         56]
+NotebookOptionsPosition[      1282,         39]
+NotebookOutlinePosition[      1682,         55]
+CellTagsIndexPosition[      1639,         52]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+  "ResourceFunction", "[", 
+   "\"\<https://www.wolframcloud.com/obj/ss8659/DeployedResources/Function/\
+RSADecrypt\>\"", "]"}], "[", 
+  RowBox[{"32949", ",", "42667", ",", "64741"}], "]"}]], "Input",
+ CellChangeTimes->{{3.804256824066409*^9, 3.804256838563861*^9}, {
+  3.804256869834153*^9, 3.8042568839724627`*^9}, {3.80425751722158*^9, 
+  3.804257523639474*^9}, {3.8042585081434183`*^9, 3.804258509390648*^9}},
+ CellLabel->"In[14]:=",ExpressionUUID->"f9eac5fe-df93-4db3-ab59-b110e583c382"],
+
+Cell[BoxData["18429"], "Output",
+ CellChangeTimes->{3.804258526664497*^9},
+ CellLabel->"Out[14]=",ExpressionUUID->"cb96c44b-1f1a-43b7-9af5-ae27cf0ae120"]
+}, Open  ]]
+},
+WindowSize->{606., 424.5},
+WindowMargins->{{209.25, Automatic}, {3.75, Automatic}},
+FrontEndVersion->"12.1 for Linux x86 (64-bit) (March 20, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"5024731f-470d-4c8f-9ccf-d0d4987d6c6a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[583, 22, 527, 10, 71, "Input",ExpressionUUID->"f9eac5fe-df93-4db3-ab59-b110e583c382"],
+Cell[1113, 34, 153, 2, 56, "Output",ExpressionUUID->"cb96c44b-1f1a-43b7-9af5-ae27cf0ae120"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
